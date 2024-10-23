@@ -3,3 +3,8 @@
 
 ## Section02
 - Storyboards와 Interface Builder
+  - appIcon과 asset
+  - Simulator로 앱 실행
+  - iPhone에 설치해서 실행
+
+## Section03
