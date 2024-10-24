@@ -8,3 +8,6 @@
   - iPhone에 설치해서 실행
 
 ## Section03
+- Section02 활용한 과제
+
+## Section04
