@@ -15,3 +15,7 @@
   - random함수 사용
   - 이미지를 이용한 배열
   - IBOutlet,IBAction 사용
+
+## Section05
+- 랜덤 질문
+  - section04 활용한 어플 제작
