@@ -11,3 +11,7 @@
 - Section02 활용한 과제
 
 ## Section04
+- 주사위 어플
+  - random함수 사용
+  - 이미지를 이용한 배열
+  - IBOutlet,IBAction 사용
