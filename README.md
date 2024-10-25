@@ -27,3 +27,9 @@
   - 계산기 앱으로 AutoLayout 실습
 
 ## Section07
+- 실로폰
+ - IBAction에서 함수 활용
+ - 애플 공식 개발문서 활용법
+
+ ## Section08
+ 
