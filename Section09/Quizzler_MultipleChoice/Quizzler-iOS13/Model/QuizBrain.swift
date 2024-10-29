@@ -17,7 +17,7 @@ struct QuizBrain {
                Question(q: "네가 미안해 한마디만 했잖아 나 oooo 이딴거 안 나왔어", a: ["솔로지옥", "나는솔로", "환승연애"], correctAnswer: "환승연애"),
                Question(q: "다음 중 야채의 익힘정도가 중요한 사람은?", a: ["안성재", "백종원", "최현석"], correctAnswer: "안성재"),
                Question(q: "다음 중 막걸리를 좋아하는 사람은?", a: ["에드워드 리", "이균", "나폴리 맛피아"], correctAnswer: "이균"),
-               Question(q: "채영이가 좋아하는 랜덤게임은?", a: ["바니바니", "딸기게임", "아파트"], correctAnswer: "아파트"),
+               Question(q: "채영이가 좋아하는 랜덤게임은?", a: ["바니바니", "딸기게임", "아파트"], correctAnswer: "아파트")
     ]
     
     var questionNumber = 0
