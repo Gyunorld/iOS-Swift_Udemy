@@ -55,3 +55,7 @@
  - Class의 상속
  - viewcontroller 전환
  - optional unwrapping 방법
+
+## Section12
+- 분할계산 계산기
+ - 화면전환 활용
