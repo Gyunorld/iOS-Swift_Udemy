@@ -50,5 +50,8 @@
 - 스토리 선택 앱
   - MVC,구조체를 활용한 스토리 선택 어플 
 
-
-
+## Section11
+- BMI 계산기
+ - Class의 상속
+ - viewcontroller 전환
+ - optional unwrapping 방법
