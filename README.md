@@ -59,3 +59,15 @@
 ## Section12
 - 분할계산 계산기
  - 화면전환 활용
+
+## Section13
+- 날씨 앱
+ - 다크모드 사용법
+ - UITextField 사용법
+ - protocol 문법
+ - delegate 디자인 패턴
+ - OpenWeather API 사용법(외부API 사용법)
+ - Closure 문법
+ - JSON타입 다루기
+ - DispatchQuene 사용(thread)
+ - GPS 사용방법
