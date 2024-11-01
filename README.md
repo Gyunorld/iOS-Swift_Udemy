@@ -80,4 +80,4 @@
 ## Section15
 
 ## Section16
-
+- 터미널 사용법
