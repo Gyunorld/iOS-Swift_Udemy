@@ -100,3 +100,9 @@
   - Observer 디자인 패턴
   - SwiftUI에 UIKit Components 사용
     - Webview 사용
+
+## Section18
+- GitHub 
+  - git 버전 관리
+  - .gitignore 사용법
+  - Xcode 소스 컨트롤
