@@ -106,3 +106,11 @@
   - git 버전 관리
   - .gitignore 사용법
   - Xcode 소스 컨트롤
+
+## Section19
+- Todo리스트
+  - UITableViewController 사용
+  - UIAlert + TextField 사용
+  - 앱의 라이프 사이클
+
+
