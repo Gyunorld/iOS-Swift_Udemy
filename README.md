@@ -112,5 +112,10 @@
   - UITableViewController 사용
   - UIAlert + TextField 사용
   - 앱의 라이프 사이클
-
-
+  - Local Data 사용
+  - Singleton
+  - 삼항연산자
+  - NSCoder를 이용한 데이터 Encoding과 Decoding
+  - Core Data 세팅
+  - Core Data CRUD 
+  - Core Data 쿼리 사용
