@@ -126,3 +126,9 @@
 
 ## Section20
 - 인앱결제
+
+## Section21
+- getter
+- setter
+- observed properties
+- computed properties
