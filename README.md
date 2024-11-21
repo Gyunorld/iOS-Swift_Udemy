@@ -139,3 +139,9 @@
   - struct와 class의 차이
   - tuple
   - guard let과 if let의 차이
+
+## Section23
+- CoreML
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
