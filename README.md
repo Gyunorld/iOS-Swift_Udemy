@@ -145,3 +145,4 @@
   - Supervised Learning
   - Unsupervised Learning
   - Reinforcement Learning
+  - 머신러닝을 이용한 핫도그 판별 어플
