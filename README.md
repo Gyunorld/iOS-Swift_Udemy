@@ -146,3 +146,9 @@
   - Unsupervised Learning
   - Reinforcement Learning
   - 머신러닝을 이용한 핫도그 판별 어플
+
+## Section24
+- 꽃사진으로 이름 찾기 어플
+  - python으로 mlmodel만들기
+  - AlamoFire 사용법
+  - SwiftyJSON 사용
