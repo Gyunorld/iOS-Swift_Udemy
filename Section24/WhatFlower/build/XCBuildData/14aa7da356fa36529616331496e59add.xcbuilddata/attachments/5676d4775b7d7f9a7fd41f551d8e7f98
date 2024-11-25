@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThiefSwift-master.dia",
+    "emit-module-dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThiefSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThiefSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThiefSwift-master.swiftdeps"
+  },
+  "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/Pods/ColorThiefSwift/ColorThiefSwift/Classes/ColorThief.swift" : {
+    "const-values" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThief.swiftconstvalues",
+    "dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThief.d",
+    "diagnostics" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThief.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThief.o",
+    "llvm-bc" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThief.bc",
+    "object" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThief.o",
+    "swift-dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThief.swiftdeps",
+    "swiftmodule" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/ColorThief~partial.swiftmodule"
+  },
+  "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/Pods/ColorThiefSwift/ColorThiefSwift/Classes/MMCQ.swift" : {
+    "const-values" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/MMCQ.swiftconstvalues",
+    "dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/MMCQ.d",
+    "diagnostics" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/MMCQ.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/MMCQ.o",
+    "llvm-bc" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/MMCQ.bc",
+    "object" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/MMCQ.o",
+    "swift-dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/MMCQ.swiftdeps",
+    "swiftmodule" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/ColorThiefSwift.build/Objects-normal/arm64/MMCQ~partial.swiftmodule"
+  }
+}
