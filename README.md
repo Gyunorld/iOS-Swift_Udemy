@@ -152,3 +152,8 @@
   - python으로 mlmodel만들기
   - AlamoFire 사용법
   - SwiftyJSON 사용
+
+## Section25
+- CreateML
+  - CreateML 사용
+  - 개,고양이,토끼 이미지 구분 모델 제작
