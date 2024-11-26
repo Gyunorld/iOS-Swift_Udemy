@@ -157,3 +157,10 @@
 - CreateML
   - CreateML 사용
   - 개,고양이,토끼 이미지 구분 모델 제작
+
+## Section26
+- CreateML 자연어 처리
+- 트윗으로 여론 반응 어플
+  - swifter 사용
+  - swiftyJson 사용
+  - 자연어처리 모델 생성
