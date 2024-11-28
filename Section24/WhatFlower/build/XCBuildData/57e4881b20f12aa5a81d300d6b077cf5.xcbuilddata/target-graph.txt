@@ -1,0 +1,10 @@
+Target dependency graph (5 targets)
+Target 'Pods-WhatFlower' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'ColorThiefSwift' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyJSON' in project 'Pods'
+Target 'SwiftyJSON' in project 'Pods' (no dependencies)
+Target 'SDWebImage' in project 'Pods' (no dependencies)
+Target 'ColorThiefSwift' in project 'Pods' (no dependencies)
+Target 'Alamofire' in project 'Pods' (no dependencies)

@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_WhatFlowerVersionString[];
+ extern const double Pods_WhatFlowerVersionNumber;
+
+ const unsigned char Pods_WhatFlowerVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_WhatFlower  PROJECT:Pods-1" "\n";
+ const double Pods_WhatFlowerVersionNumber __attribute__ ((used)) = (double)1.;

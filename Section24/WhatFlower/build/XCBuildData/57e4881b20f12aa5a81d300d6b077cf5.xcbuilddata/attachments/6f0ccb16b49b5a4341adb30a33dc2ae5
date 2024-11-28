@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.dia",
+    "emit-module-dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.swiftdeps"
+  },
+  "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift" : {
+    "const-values" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.swiftconstvalues",
+    "dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.d",
+    "diagnostics" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o",
+    "llvm-bc" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.bc",
+    "object" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o",
+    "swift-dependencies" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.swiftdeps",
+    "swiftmodule" : "/Users/kimmingyu/Desktop/ios/Udemy_iOS/SwiftBootCamp/Section24/WhatFlower/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON~partial.swiftmodule"
+  }
+}
